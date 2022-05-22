@@ -146,6 +146,14 @@ section .container article p {
     padding-left: 2em;
 }
 
+.container .menu {
+    font-weight: bold;
+}
+
+.nav_top {
+    font-weight: bold;
+}
+
 @media(min-width: 62.750em) {
     section .container .flex {
 
